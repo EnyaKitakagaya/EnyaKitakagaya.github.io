@@ -1,6 +1,6 @@
-# えんや--エンジニア長屋
+# えんや-エンジニア長屋
 
-[Home]()
+[Home](index.md)
 - - - -
 [about]()
 
@@ -18,6 +18,7 @@
   * [booo](subitem3.md)
 
 [Work Shops](item2.md)
+
   * #team A
   *[member]()
   - - - -
@@ -26,5 +27,6 @@
   - - - -
   * #team M
   *[member]()
+
 - - - -
 [イベント]()
