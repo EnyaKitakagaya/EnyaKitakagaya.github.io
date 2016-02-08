@@ -2,8 +2,8 @@
 
 [home]
 [ワークショップ]
- * hoo
- * boo
+ * hoo   
+ * boo   
  - - - -
  * var
 
