@@ -1,32 +1,23 @@
 # えんや-エンジニア長屋
-
 [Home](index.md)
-- - - -
-[about]()
 
-  * えんやについて
-  * FablabKitakagayaについて
-- - - -
 [HowTo]()
 
-  * # GitHub使い方関連
-  * [Githubとは]()
-  * [Githubの使い方]()
-  * [git]()
+  * # GitHub関連
+  * [Githubの使い方](howto/github/handson.md)
+  * [○○の使い方]()
   - - - -
   * # Github IOの使い方
-  * [booo](subitem3.md)
-
-[Work Shops](item2.md)
-
-  * #team A
-  *[member]()
   - - - -
-  * #team R
-  *[member]()
+  * #test
+
+[Work Shops]()
+
+  * [team A]()
   - - - -
-  * #team M
-  *[member]()
+  * [team R]()
+  - - - -
+  * [team M]()
 
 - - - -
-[イベント]()
+[イベント](event)

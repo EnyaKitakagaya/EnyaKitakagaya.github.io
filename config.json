@@ -1,6 +1,7 @@
 {
   "useSideMenu": true,
   "lineBreaks": "gfm",
+  "additionalFooterText": "...",
   "title": "えんや-エンジニア長屋",
   "anchorCharacter": "#"
 }
