@@ -22,7 +22,7 @@ http://EnyaKitakagaya.github.io/#!xxxx.md
 
 ### ナビゲーションの部分をいじりたい場合
 
-ナビゲーション部分にリンクを張りたい場合は、'navigation.md'を編集してください。
+ナビゲーション部分にリンクを張りたい場合は、'navigation.md' を編集してください。
 
 ### 設定ファイル
 conf.jsonがあるのでそれをいじってください。
