@@ -14,11 +14,11 @@ GitHubのえんやのチームに誰かを招待する方法が結構わかり�
 
 [ ![invite](imgs_how2invite/1.png)](imgs_how2invite/origin/1.png)
 
-招待する人のユーザー名を入力してください
+赤く印をつけたフォーム欄に、招待する人のユーザー名を入力してください
 
 [ ![input name ](imgs_how2invite/2.png)](imgs_how2invite/origin/2.png)
 
-オーナーかメンバーのどちらで招待をするかを聞かれますので選択して、
+オーナーかメンバーのどちらとしてユーザーを招待をするかを聞かれますので選択して、
 [Send inviteation]のボタンを押してください。
 
 [ ![input name ](imgs_how2invite/3.png)](imgs_how2invite/origin/3.png)
