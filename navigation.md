@@ -5,6 +5,7 @@
 
   * # GitHub関連
   * [Githubの使い方](howto/github/handson.md)
+  * [ユーザー招待  ](howto/github/howto_invite.md)
   * [○○の使い方]()
   - - - -
   * # Github IOの使い方
