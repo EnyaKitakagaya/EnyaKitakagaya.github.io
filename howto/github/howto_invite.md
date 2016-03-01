@@ -30,13 +30,13 @@ GitHubのえんやのチームに誰かを招待する方法が結構わかり�
 
 そうすると、招待する相手にこんな感じのメールが届きます
 
-[ ![input name ](imgs_how2invite/5.png)](imgs_how2invite/origin/5.png)
+[ ![input name ](imgs_how2invite/4.png)](imgs_how2invite/origin/4.png)
 
 2つ目のリンクをクリックしてもらってください。
 
 こんな画面に遷移するので、緑色のボタンを押してもらってください。
 
-[ ![input name ](imgs_how2invite5.png)](imgs_how2invite/origin/5.png)
+[ ![input name ](imgs_how2invite/5.png)](imgs_how2invite/origin/5.png)
 
 これで招待ができました。
 
